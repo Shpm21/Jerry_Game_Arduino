@@ -3,4 +3,4 @@
  dentro de su editor de texto y conectar ARDUINO.
 -El juego se encuentra disponible en el archivo "main.py".
 -Mantener las carpetas de los sprites en la carpeta "The_Jerry_Games".
--Si usted detecta algun bug porfavor comunicarlo.
+-Si usted detecta algun bug por favor comunicarlo.
