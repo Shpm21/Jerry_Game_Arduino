@@ -11,8 +11,8 @@
 	83. self.background
 	89. self.jerry_Character
 	94. self.enemy_Character_1
-	100. linea 100 self.enemy_Character_2
-	106. linea 106 self.enemy_Character_3
+	100. self.enemy_Character_2
+	106. self.enemy_Character_3
 
 -Tambien debera editar la siguiente ruta en el archivo "clases.py":
 	
