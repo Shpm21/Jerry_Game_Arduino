@@ -1,1 +1,0 @@
-class Windows(tk.Frame):
